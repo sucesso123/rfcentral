@@ -9,7 +9,7 @@ export default function Home() {
   const isMobile = width < 768;
 
   const handleOpenWhatsApp = () => {
-    window.open('https://wa.me/5511964323323', '_blank');
+    window.open('https://wa.me/5511952019716', '_blank');
   };
 
   return (
