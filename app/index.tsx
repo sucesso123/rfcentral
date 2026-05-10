@@ -16,7 +16,7 @@ export default function Home() {
     <ScrollView style={styles.scrollContainer} contentContainerStyle={styles.container}>
       <View style={[styles.header, isMobile && styles.headerMobile]}>
         <View style={styles.headerContent}>
-          <Text style={[styles.logo, isMobile && styles.logoMobile]}>Sem Parar</Text>
+          <Text style={[styles.logo, isMobile && styles.logoMobile]}>Atendimento Virtual</Text>
           <Text style={[styles.subtitle, isMobile && styles.subtitleMobile]}>Central de Autoatendimento</Text>
         </View>
       </View>
