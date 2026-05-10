@@ -123,7 +123,7 @@ export default function Home() {
 
       <View style={[styles.footer, isMobile && styles.footerMobile]}>
         <Text style={[styles.footerText, isMobile && styles.footerTextMobile]}>
-          © 2024 Sem Parar. Todos os direitos reservados.
+          © 2026 Atendimento Virtual. Todos os direitos reservados.
         </Text>
       </View>
     </ScrollView>
